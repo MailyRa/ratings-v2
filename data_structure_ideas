@@ -1,0 +1,7 @@
+movies_list = [];
+
+each movie: 
+title*
+overview
+poster_path
+release_date
